@@ -1,0 +1,21 @@
+Local_DNS_Server, www.google.com, I
+0x00, COM_DNS_Server, 216.58.192.164
+
+Local_DNS_Server, www.amazon.com, I
+0x00, COM_DNS_Server, 52.222.210.189
+
+Local_DNS_Server, www.test.com, I
+0xFF, COM_DNS_Server, Host not found
+
+Local_DNS_Server, www.teachcape.com, I
+0xFF, COM_DNS_Server, Host not found
+
+Local_DNS_Server, www.twitter.com, I
+0x00, COM_DNS_Server, 104.244.42.65
+
+Local_DNS_Server, www.proficiency.teachscape.com, I
+0x00, COM_DNS_Server, 69.36.226.168
+
+Local_DNS_Server, redrivercleaningservices.com, I
+0x00, COM_DNS_Server, 234.578.200.21
+

@@ -1,0 +1,15 @@
+Local_DNS_Server, www.usa.gov, R
+0x00, GOV_DNS_Server, 52.222.222.4
+
+Local_DNS_Server, www.starbuckstea.gov, I
+0x00, GOV_DNS_Server, 57.38.48.93
+
+Local_DNS_Server, www.trafficcontrol.gov, R
+0x00, GOV_DNS_Server, 59.024.89.289
+
+Local_DNS_Server, china.gov, R
+0x00, GOV_DNS_Server, 64.234.86.45
+
+Local_DNS_Server, www.cm.gov, I
+0x00, GOV_DNS_Server, 56.28.590.4
+

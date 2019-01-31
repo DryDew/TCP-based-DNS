@@ -1,0 +1,21 @@
+Local_DNS_Server, www.testcase.org, R
+0x00, ORG_DNS_Server, 78.46.893.288
+
+Local_DNS_Server, safari.org, R
+0x00, ORG_DNS_Server, 85.22.45.783
+
+Local_DNS_Server, guggenheim.org, I
+0x00, ORG_DNS_Server, 63.116.182.0
+
+Local_DNS_Server, www.twitter.org, R
+0xFF, ORG_DNS_Server, Host not found
+
+Local_DNS_Server, www.freewificafe.org, I
+0x00, ORG_DNS_Server, 45.63.485.34
+
+Local_DNS_Server, www.trustedservice.org, R
+0xFF, ORG_DNS_Server, Host not found
+
+Local_DNS_Server, www.google.org, I
+0xFF, ORG_DNS_Server, Host not found
+

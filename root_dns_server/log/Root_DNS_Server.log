@@ -1,0 +1,64 @@
+Local_DNS_Server, www.google.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, www.testcase.org, R
+0x00, ORG_DNS_Server, 78.46.893.288
+0x00, Root_DNS_Server, 78.46.893.288
+
+Local_DNS_Server, www.amazon.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, www.test.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, www.usa.gov, R
+0x00, GOV_DNS_Server, 52.222.222.4
+0x00, Root_DNS_Server, 52.222.222.4
+
+Local_DNS_Server, www.starbuckstea.gov, I
+0x01, Root_DNS_Server, 127.0.0.1, 5680
+
+Local_DNS_Server, safari.org, R
+0x00, ORG_DNS_Server, 85.22.45.783
+0x00, Root_DNS_Server, 85.22.45.783
+
+Local_DNS_Server, guggenheim.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+
+Local_DNS_Server, www.trafficcontrol.gov, R
+0x00, GOV_DNS_Server, 59.024.89.289
+0x00, Root_DNS_Server, 59.024.89.289
+
+Local_DNS_Server, www.teachcape.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, china.gov, R
+0x00, GOV_DNS_Server, 64.234.86.45
+0x00, Root_DNS_Server, 64.234.86.45
+
+Local_DNS_Server, www.twitter.org, R
+0xFF, ORG_DNS_Server, Host not found
+0xFF, Root_DNS_Server, Host not found
+
+Local_DNS_Server, www.twitter.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, www.proficiency.teachscape.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+
+Local_DNS_Server, www.cm.gov, I
+0x01, Root_DNS_Server, 127.0.0.1, 5680
+
+Local_DNS_Server, www.freewificafe.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+
+Local_DNS_Server, www.trustedservice.org, R
+0xFF, ORG_DNS_Server, Host not found
+0xFF, Root_DNS_Server, Host not found
+
+Local_DNS_Server, www.google.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+
+Local_DNS_Server, redrivercleaningservices.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+

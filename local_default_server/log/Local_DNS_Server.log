@@ -1,0 +1,149 @@
+PC1, www.google.com, I
+Local_DNS_Server, www.google.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.google.com, I
+0x00, COM_DNS_Server, 216.58.192.164
+0x00, Local_DNS_Server, 216.58.192.164
+
+PC1, www.testcase.org, R
+Local_DNS_Server, www.testcase.org, R
+0x00, Root_DNS_Server, 78.46.893.288
+0x00, Local_DNS_Server, 78.46.893.288
+
+PC1, www.amazon.com, I
+Local_DNS_Server, www.amazon.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.amazon.com, I
+0x00, COM_DNS_Server, 52.222.210.189
+0x00, Local_DNS_Server, 52.222.210.189
+
+PC1, www.test.com, I
+Local_DNS_Server, www.test.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.test.com, I
+0xFF, COM_DNS_Server, Host not found
+0xFF, Local_DNS_Server, Host not found
+
+PC1, www.usa.gv, I
+0xEE, Local_DNS_Server, Invalid format
+
+PC1, www.usa.gov, R
+Local_DNS_Server, www.usa.gov, R
+0x00, Root_DNS_Server, 52.222.222.4
+0x00, Local_DNS_Server, 52.222.222.4
+
+PC1, www.starbuckstea.gov, I
+Local_DNS_Server, www.starbuckstea.gov, I
+0x01, Root_DNS_Server, 127.0.0.1, 5680
+Local_DNS_Server, www.starbuckstea.gov, I
+0x00, GOV_DNS_Server, 57.38.48.93
+0x00, Local_DNS_Server, 57.38.48.93
+
+PC1, safari.org, R
+Local_DNS_Server, safari.org, R
+0x00, Root_DNS_Server, 85.22.45.783
+0x00, Local_DNS_Server, 85.22.45.783
+
+PC1, guggenheim.org, I
+Local_DNS_Server, guggenheim.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+Local_DNS_Server, guggenheim.org, I
+0x00, ORG_DNS_Server, 63.116.182.0
+0x00, Local_DNS_Server, 63.116.182.0
+
+PC1, www.amazon.com, R
+0x00, Local_DNS_Server, 52.222.210.189
+
+PC1, www.usa.gov, T
+0xEE, Local_DNS_Server, Invalid format
+
+PC1, www.usa.gov, I
+0x00, Local_DNS_Server, 52.222.222.4
+
+PC1, www.trafficcontrol.gov, R
+Local_DNS_Server, www.trafficcontrol.gov, R
+0x00, Root_DNS_Server, 59.024.89.289
+0x00, Local_DNS_Server, 59.024.89.289
+
+PC1, www.teachcape.com, I
+Local_DNS_Server, www.teachcape.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.teachcape.com, I
+0xFF, COM_DNS_Server, Host not found
+0xFF, Local_DNS_Server, Host not found
+
+PC1, china.gov, R
+Local_DNS_Server, china.gov, R
+0x00, Root_DNS_Server, 64.234.86.45
+0x00, Local_DNS_Server, 64.234.86.45
+
+PC1, iranorganisation.cm, I
+0xEE, Local_DNS_Server, Invalid format
+
+PC1, www.twitter.org, R
+Local_DNS_Server, www.twitter.org, R
+0xFF, Root_DNS_Server, Host not found
+0xFF, Local_DNS_Server, Host not found
+
+PC1, www.twitter.com, I
+Local_DNS_Server, www.twitter.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.twitter.com, I
+0x00, COM_DNS_Server, 104.244.42.65
+0x00, Local_DNS_Server, 104.244.42.65
+
+PC2, www.proficiency.teachscape.com, I
+Local_DNS_Server, www.proficiency.teachscape.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, www.proficiency.teachscape.com, I
+0x00, COM_DNS_Server, 69.36.226.168
+0x00, Local_DNS_Server, 69.36.226.168
+
+PC2, www.cm.gov, I
+Local_DNS_Server, www.cm.gov, I
+0x01, Root_DNS_Server, 127.0.0.1, 5680
+Local_DNS_Server, www.cm.gov, I
+0x00, GOV_DNS_Server, 56.28.590.4
+0x00, Local_DNS_Server, 56.28.590.4
+
+PC2, www.sppl.or, R
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.freewificafe.org, I
+Local_DNS_Server, www.freewificafe.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+Local_DNS_Server, www.freewificafe.org, I
+0x00, ORG_DNS_Server, 45.63.485.34
+0x00, Local_DNS_Server, 45.63.485.34
+
+PC2, www.animalhumanesociety.org, O
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.proficiency.teachscape.com, RECURSIVE
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.sppl.or, I/R
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.trustedservice.org, R
+Local_DNS_Server, www.trustedservice.org, R
+0xFF, Root_DNS_Server, Host not found
+0xFF, Local_DNS_Server, Host not found
+
+PC2, www.google.org, I
+Local_DNS_Server, www.google.org, I
+0x01, Root_DNS_Server, 127.0.0.1, 5679
+Local_DNS_Server, www.google.org, I
+0xFF, ORG_DNS_Server, Host not found
+0xFF, Local_DNS_Server, Host not found
+
+PC2, redrivercleaningservices.com, I
+Local_DNS_Server, redrivercleaningservices.com, I
+0x01, Root_DNS_Server, 127.0.0.1, 5678
+Local_DNS_Server, redrivercleaningservices.com, I
+0x00, COM_DNS_Server, 234.578.200.21
+0x00, Local_DNS_Server, 234.578.200.21
+
+PC2, redrivercleaningservices.net, I
+0xEE, Local_DNS_Server, Invalid format
+

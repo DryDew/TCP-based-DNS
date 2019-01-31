@@ -1,0 +1,33 @@
+PC2, www.proficiency.teachscape.com, I
+0x00, Local_DNS_Server, 69.36.226.168
+
+PC2, www.cm.gov, I
+0x00, Local_DNS_Server, 56.28.590.4
+
+PC2, www.sppl.or, R
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.freewificafe.org, I
+0x00, Local_DNS_Server, 45.63.485.34
+
+PC2, www.animalhumanesociety.org, O
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.proficiency.teachscape.com, RECURSIVE
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.sppl.or, I/R
+0xEE, Local_DNS_Server, Invalid format
+
+PC2, www.trustedservice.org, R
+0xFF, Local_DNS_Server, Host not found
+
+PC2, www.google.org, I
+0xFF, Local_DNS_Server, Host not found
+
+PC2, redrivercleaningservices.com, I
+0x00, Local_DNS_Server, 234.578.200.21
+
+PC2, redrivercleaningservices.net, I
+0xEE, Local_DNS_Server, Invalid format
+
